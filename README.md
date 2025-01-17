@@ -23,8 +23,6 @@
   <a href="mailto:mutnale03@gmail.com" style="color: blue; text-decoration: none;">Email</a>
 
 - 📄 Know about my experiences: 
-  <a href="https://www.linkedin.com/in/sanket-mutnale/" style="color: blue; text-decoration: none;">LinkedIn</a>, 
-  <a href="mailto:mutnale03@gmail.com" style="color: blue; text-decoration: none;">Email</a>, and 
   <a href="https://drive.google.com/file/d/1Kjtt88H8MtWjQWOdPspi6bB47TiqI6Bs/view?usp=drive_link" style="color: blue; text-decoration: none;">Resume</a>.
 
 <h3 align="left">Connect with me:</h3>
@@ -53,9 +51,6 @@
   </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
   </a> 
 </p>
 
