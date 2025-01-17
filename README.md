@@ -1,4 +1,4 @@
-![logo](https://github.com/Sanket-55/Sanket-55/blob/main/Your%20paragraph%20text%20(2).png)
+![logo](https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif)
 <h1 align="center">Hi, I'm Sanket Mutnale</h1>
 <h3 align="center">Embedded Software Engineer, Firmware Engineer, Device Driver, Linux</h3>
 
