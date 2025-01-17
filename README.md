@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sanket-55/Sanket-55/blob/main/Your%20paragraph%20text%20(2).png)
 <h1 align="center">Hi, I'm Sanket Mutnale</h1>
 <h3 align="center">Embedded Software Engineer, Firmware Engineer, Device Driver, Linux</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sanket-55&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-55" /> 
