@@ -1,4 +1,4 @@
- <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Logo" width="1000" height="400">
+ <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Logo" width="800" height="300">
 <h1 align="center">Hi, I'm Sanket Mutnale</h1>
 <h3 align="center">Embedded Software Engineer, Firmware Engineer, Device Driver, Linux</h3>
 
