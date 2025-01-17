@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://drive.google.com/file/d/1eW3rvaSt5UX2JpZni1a59YXRrz4RgOHw/view?usp=drive_link" alt="Logo" width="1000" height="400">
+  <img src="https://github.com/Sanket-55/Sanket-55/blob/main/111.gif?raw=true" alt="Logo" width="1000" height="400">
 </div>
 <h1 align="center">Hi, I'm Sanket Mutnale</h1>
 <h3 align="center">Embedded Software Engineer, Firmware Engineer, Device Driver, Linux</h3>
