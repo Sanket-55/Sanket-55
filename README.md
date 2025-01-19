@@ -1,9 +1,9 @@
+
+<h1 align="center">Hi, I'm Sanket Mutnale</h1>
+<h3 align="center">Embedded Software Engineer, Firmware Engineer, Device Driver, Linux</h3>
 <div style="text-align: center;">
   <img src="https://github.com/Sanket-55/Sanket-55/blob/main/111.gif?raw=true" alt="Logo" width="900" height="400">
 </div>
-<h1 align="center">Hi, I'm Sanket Mutnale</h1>
-<h3 align="center">Embedded Software Engineer, Firmware Engineer, Device Driver, Linux</h3>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sanket-55&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-55" /> 
 </p>
