@@ -6,26 +6,22 @@
 </div>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sanket-55&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-55" /> 
-</p>
-
-- 👨‍⚖️ I’m currently working as **Embedded Engineer at Technoticks.**
-
-- 👨‍💻 I’m currently learning **Embedded Linux, Bootloader.**
-
-- 🧐 I’m looking for a **full-time opportunity in the embedded domain.**
-
-- 🧑‍🎓 I’m proficient in **C, C++, Python, Linux, Bootloader.**
-
-- 👨‍💻 All of my projects are available on 
-  <a href="https://www.linkedin.com/in/sanket-mutnale/" style="color: blue; text-decoration: none;">LinkedIn</a>.
-
-- 🕵️‍♂️ I’m currently working on **Linux and bootloader projects.**
-
-- 📫 How to reach me: 
-  <a href="mailto:mutnale03@gmail.com" style="color: blue; text-decoration: none;">Email</a>
-
-- 📄 Know about my experiences: 
-  <a href="https://drive.google.com/file/d/1Kjtt88H8MtWjQWOdPspi6bB47TiqI6Bs/view?usp=drive_link" style="color: blue; text-decoration: none;">Resume</a>.
+<div style="font-size: 18px;">
+  <p>👨‍⚖️ I’m currently working as <strong>Embedded Engineer at Technoticks.</strong></p>
+  <p>👨‍💻 I’m currently learning <strong>Embedded Linux, Bootloader.</strong></p>
+  <p>🧐 I’m looking for a <strong>full-time opportunity in the embedded domain.</strong></p>
+  <p>🧑‍🎓 I’m proficient in <strong>C, C++, Python, Linux, Bootloader.</strong></p>
+  <p>👨‍💻 All of my projects are available on 
+    <a href="https://www.linkedin.com/in/sanket-mutnale/" style="color: blue; text-decoration: none;">LinkedIn</a>.
+  </p>
+  <p>🕵️‍♂️ I’m currently working on <strong>Linux and bootloader projects.</strong></p>
+  <p>📫 How to reach me: 
+    <a href="mailto:mutnale03@gmail.com" style="color: blue; text-decoration: none;">Email</a>
+  </p>
+  <p>📄 Know about my experiences: 
+    <a href="https://drive.google.com/file/d/1Kjtt88H8MtWjQWOdPspi6bB47TiqI6Bs/view?usp=drive_link" style="color: blue; text-decoration: none;">Resume</a>.
+  </p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
